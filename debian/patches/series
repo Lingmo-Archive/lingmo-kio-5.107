@@ -1,0 +1,4 @@
+report_error_removing_dirs
+#fix_kfreebsd_build
+hurd_disable_unimplemented.diff
+Use-CXX_FLAGS-for-moc_predefs.h.patch
